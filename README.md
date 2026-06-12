@@ -158,7 +158,7 @@ The model generates a contextual and accurate response.
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/dwivediadarsh496-commits/CHAT_BOT-RAG.git
+git clone https://github.com/Rupesh5151/Retrieval-Augmented-AI-Assistant.git
 cd CHAT_BOT-RAG
 ```
 
